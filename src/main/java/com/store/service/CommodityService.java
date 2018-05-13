@@ -11,7 +11,7 @@ import java.util.List;
 
 @Service
 public class CommodityService {
-
+// test1
     private CommodityRepository stokeRepository;
 
     @Autowired
